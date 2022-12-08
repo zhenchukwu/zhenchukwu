@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @zhenchukwu
-- 👀 I’m interested in web dev
-- 🌱 I’m currently learning ReactNative
-- 💞️ I’m looking to collaborate on any frontend projects
+- 👋 Hi, I’m Zhenchukwu, 
+- 👀 I’m interested and in love with software engineering; there's sooo much in my big head i want to bring to light.  One step at a time...
+- 🌱 I’m currently learning ReactNative, Devops
+- 💞️ I’m looking for internships and remote jobs
 - 📫 zhenchukwu@gmail.com
 
 <!---
