@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/-Agile Development-343434?style=flat&logo=agile" />
 </p>
 
-<h2 align="center">Projects</h2>
+<!------ <h2 align="center">Projects</h2>
 
 <p align="center">
   <a href="https://github.com/[username]/[project1]"><img src="https://github-readme-stats.vercel.app/api/pin/?username=[username]&repo=[project1]" /></a>
@@ -30,12 +30,15 @@
 
 <p align="center">
   <a href="https://github.com/[username]/[project1]/pulls"><img src="https://img.shields.io/github/issues-pr/[username]/[project1]" /></a>
-</p>
+</p> ---->
+
 
 <h2 align="center">Contact</h2>
 
 <p align="center">
   <a href="mailto:zhencjukwu@gmal.com"><img src="https://img.shields.io/badge/-Email-343434?style=flat&logo=gmail" /></a>
+  
+  <!----
   <a href="[your website URL]"><img src="https://img.shields.io/badge/-Website-343434?style=flat&logo=google-chrome" /></a>
   <a href="https://www.linkedin.com/in/[your LinkedIn ID]"><img src="https://img.shields.io/badge/-LinkedIn-343434?style=flat&logo=linkedin" /></a>
-</p>
+</p> ---->
