@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, My name is Christopher</h1>
+<h1 align="center">Hi there 👋, My name is Chris </h1>
 
 <p align="center">
   <img src="https://github.com/zhenchukwu/zhenchukwu/blob/main/gifs/code.gif" alt="animated" />
