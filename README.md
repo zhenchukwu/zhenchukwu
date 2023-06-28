@@ -1,11 +1,11 @@
 
-<h1 align="center">Hi there 👋, My name is Chris </h1>
+<h1 align="center">Hi there 👋 </h1>
 
 <p align="center">
   <img src="https://github.com/zhenchukwu/zhenchukwu/blob/main/gifs/code.gif" alt="animated" />
 </p>
 
-<p align="center">I'm a passionate software developer who loves building intuitive, user-friendly applications. I specialize in developing web applications using React, Node.js, and MongoDB.</p>
+<p align="center">I am a passionate software developer who loves building intuitive, user-friendly applications.</p>
 
 <h2 align="center">Skills</h2>
 
