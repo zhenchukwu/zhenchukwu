@@ -12,6 +12,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-343434?style=flat&logo=javascript" />
   <img src="https://img.shields.io/badge/-React-343434?style=flat&logo=react" />
+    <img src="https://img.shields.io/badge/-React-343434?style=flat&logo=vue" />
+
   <img src="https://img.shields.io/badge/-Node.js-343434?style=flat&logo=node.js" />
   <img src="https://img.shields.io/badge/-MongoDB-343434?style=flat&logo=mongodb" />
   <img src="https://img.shields.io/badge/-HTML5-343434?style=flat&logo=html5" />
