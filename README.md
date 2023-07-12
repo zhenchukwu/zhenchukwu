@@ -38,7 +38,7 @@
 
 <p align="center">
   <a href="mailto:zhencjukwu@gmal.com"><img src="https://img.shields.io/badge/-Email-343434?style=flat&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/[https://www.linkedin.com/in/christopher-chukwu-n-229b81169]"><img src="https://img.shields.io/badge/-LinkedIn-343434?style=flat&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/christopher-chukwu-n-229b81169"><img src="https://img.shields.io/badge/-LinkedIn-343434?style=flat&logo=linkedin" /></a>
   <!----
   <a href="[your website URL]"><img src="https://img.shields.io/badge/-Website-343434?style=flat&logo=google-chrome" /></a>
   
